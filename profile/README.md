@@ -64,9 +64,11 @@ We partner with academic research groups, clinical investigators, biotechnology 
 
 ---
 
-## Brand & Media Assets
+## Assets
 
-Official **Gnostica AI** logotypes and symbols maintained in this repository:
+Official **Gnostica AI** logotypes, symbols, and media assets maintained in this repository:
+
+### Vector Assets (SVG)
 
 | Preview | Asset | Format | Links |
 | :---: | :--- | :--- | :--- |
@@ -76,4 +78,12 @@ Official **Gnostica AI** logotypes and symbols maintained in this repository:
 | <img src="../gnostica-symbol.svg" alt="Gnostica Symbol" height="32" /> | **Brand Symbol (Static)** | SVG | [View](../gnostica-symbol.svg) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/gnostica-symbol.svg) |
 | <img src="../gnostica-symbol-bw.svg" alt="Gnostica Monochrome Symbol" height="32" /> | **Brand Symbol (Monochrome)** | SVG | [View](../gnostica-symbol-bw.svg) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/gnostica-symbol-bw.svg) |
 
-<sub>Default Brand Covers: <a href="../default-16-9.jpg">16:9 Cover</a> · <a href="../default-4-3.jpg">4:3 Cover</a> · <a href="../default-square.jpg">1:1 Square</a></sub>
+### Raster Assets (PNG & JPG)
+
+- **Primary Logotype — Transparent** (`PNG · 4535 × 1134`): [View](../gnostica-logo-transparent.png) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/gnostica-logo-transparent.png)
+- **Primary Logotype — White Background** (`PNG · 3200 × 800`): [View](../gnostica-logo.png) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/gnostica-logo.png)
+- **Brand Symbol — Transparent** (`PNG · 1200 × 1200`): [View](../gnostica-symbol-transparent.png) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/gnostica-symbol-transparent.png)
+- **Brand Symbol — White Background** (`PNG · 1200 × 1200`): [View](../gnostica-symbol.png) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/gnostica-symbol.png)
+- **Default Brand Cover — 16:9** (`JPG · 1600 × 900`): [View](../default-16-9.jpg) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/default-16-9.jpg)
+- **Default Brand Cover — 4:3** (`JPG · 1600 × 1200`): [View](../default-4-3.jpg) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/default-4-3.jpg)
+- **Default Brand Cover — 1:1 Square** (`JPG · 1200 × 1200`): [View](../default-square.jpg) · [Raw](https://raw.githubusercontent.com/gnosticaAI/.github/main/default-square.jpg)
